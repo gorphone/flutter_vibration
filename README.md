@@ -4,6 +4,10 @@
 
 A plugin for handling Vibration API on iOS and Android devices. [API docs.](https://pub.dartlang.org/documentation/vibration/latest/vibration/Vibration-class.html)
 
+###
+
+if you prefer Object-c than swift, use tag 1.0.3 please.
+
 ## Getting Started
 
 1. Add `vibration` to the dependencies section of `pubspec.yaml`.
